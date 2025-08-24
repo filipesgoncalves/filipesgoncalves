@@ -6,7 +6,7 @@
 <ul>
     <li>🎓 Estudante de <strong>Engenharia de Software</strong> na <strong>Unicesumar</strong></li>
     <li>💼 Estágio em Análise de Dados na <strong>Tributech</strong></li>
-    <li>🔍 Sempre atrás de novos desafios e novas descobertas</li>
+    <li>🔍 Buscando aplicar meus conhecimentos para contribuir em projetos inovadores</li>
 </ul>
 
 <h2>Conhecimentos</h2>
