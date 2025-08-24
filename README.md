@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="2400" height="960" alt="banner" src="https://github.com/user-attachments/assets/6d469c35-f657-43a7-acc4-9dbda9c803d5" />
+ <img width="1609" height="905" alt="banner" src="https://github.com/user-attachments/assets/225b4f03-eef7-4158-97df-db5c7d342b53" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=800&color=9000EE&width=800&lines=Seja+bem-vindo(a)!" alt="Typing SVG" /></a><br>
 </div>
   <h2>About me</h2>
